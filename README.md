@@ -106,3 +106,6 @@
 
 ## 说明
   - 从backup-db发展而来，发现不仅仅支持数据库备份，所以改名backup-x，备份届的iphone-x
+
+## thanks
+![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png)
